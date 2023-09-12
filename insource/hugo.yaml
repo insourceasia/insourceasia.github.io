@@ -88,7 +88,7 @@ params:
   - title: Demo Request
     url: /#section5
   - title: Demo Login
-    url: http://insource.southeastasia.cloudapp.azure.com
+    url: http://demo.insource.asia
   # - title: Log in
   #   url: /
   # - title: Sign up
