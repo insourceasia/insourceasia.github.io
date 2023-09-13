@@ -39,7 +39,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: No-Code AI Platform for LLM Flows | OpenAI, LangChain, LangFlow
+    title: InSource
     # Hero subtitle (optional)
     subtitle: Your AI Platform. No-Code, Complete Control, Uncompromised Security.
     # Button text
