@@ -90,6 +90,7 @@ params:
     url: /#section5
   - title: Demo Login
     url: http://demo.insource.asia
+    button: true
   # - title: Log in
   #   url: /
   # - title: Sign up
