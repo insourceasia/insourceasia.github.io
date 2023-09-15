@@ -220,8 +220,8 @@ params:
         links:
         - text: Why choose our product?
           link: /#section1
-        - text: Terms of Service
-          link: /tos
+        # - text: Terms of Service
+        #   link: /tos
       # column2:
       #   title: "Docs"
       #   links:
