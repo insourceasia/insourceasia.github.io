@@ -204,9 +204,9 @@ params:
       icon: globe
     - link: https://www.linkedin.com/company/teccelerates/
       icon: linkedin
-    - link: https://github.com/somethingwentwell/langflow/tree/insource
+    # - link: https://github.com/somethingwentwell/langflow/tree/insource
       # Icons are from Font Awesome
-      icon: github
+    #  icon: github
     # - link: https://facebook.com/#
     #   icon: facebook
     # - link: https://twitter.com/StefMa91
