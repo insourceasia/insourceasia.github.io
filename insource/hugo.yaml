@@ -240,3 +240,8 @@ params:
           link: /features/admin
         - text: Latest Use Case
           link: /usecase/recruitment
+      column3:
+        title: "Terms of Service"
+        links:
+        - text: Terms of Service
+          link: /tos
