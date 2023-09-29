@@ -204,6 +204,8 @@ params:
       icon: globe
     - link: https://www.linkedin.com/company/teccelerates/
       icon: linkedin
+    - link: https://www.youtube.com/@AI-InSource
+      icon: youtube
     # - link: https://github.com/somethingwentwell/langflow/tree/insource
       # Icons are from Font Awesome
     #  icon: github
