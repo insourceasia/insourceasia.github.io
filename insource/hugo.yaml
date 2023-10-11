@@ -247,3 +247,5 @@ params:
         links:
         - text: Terms of Service
           link: /tos
+        - text: Statement of Support
+          link: /statement-of-support
