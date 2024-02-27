@@ -8,7 +8,7 @@ sidebarlogo: fresh-white-alt
 
 ## Introduction
 
-In today's fast-paced world, recruiters face the challenge of finding the right candidates for job openings. The process of sifting through countless resumes and matching them with job descriptions can be time-consuming and inefficient. This is where InSource Langflow comes in. In this blog post, we will explore a use case of how InSource Langflow, an OpenAI no-code flow based on Langchain, can help recruiters input their candidate database and match job descriptions with candidates, streamlining the recruitment process.
+In today's fast-paced world, recruiters face the challenge of finding the right candidates for job openings. The process of sifting through countless resumes and matching them with job descriptions can be time-consuming and inefficient. This is where InSource Flow comes in. In this blog post, we will explore a use case of how InSource Flow, an OpenAI no-code flow based on Langchain, can help recruiters input their candidate database and match job descriptions with candidates, streamlining the recruitment process.
 
 ## Customer Problem Statement
 
@@ -20,9 +20,9 @@ Recruiters often struggle with the following challenges:
 
 These challenges can lead to a slow and inefficient recruitment process, resulting in missed opportunities and wasted resources.
 
-## InSource Langflow Solution
+## InSource Flow Solution
 
-InSource Langflow is an AI-powered solution that automates the process of inputting candidate information and matching job descriptions with candidates. By leveraging the power of OpenAI's no-code flow based on Langchain, InSource Langflow can:
+InSource Flow is an AI-powered solution that automates the process of inputting candidate information and matching job descriptions with candidates. By leveraging the power of OpenAI's no-code flow based on Langchain, InSource Flow can:
 
 1. Automatically extract candidate information from resumes and input it into the recruiter's database.
 2. Match candidates with job descriptions based on their skills, experience, and other relevant factors.
@@ -32,7 +32,7 @@ InSource Langflow is an AI-powered solution that automates the process of inputt
 
 ## Use Case: Streamlining the Recruitment Process
 
-Let's explore a use case where a recruiter, Jane, uses InSource Langflow to streamline her recruitment process.
+Let's explore a use case where a recruiter, Jane, uses InSource Flow to streamline her recruitment process.
 
 ### Problem
 
@@ -40,15 +40,15 @@ Jane is a recruiter at a tech company and has received 200 resumes for a softwar
 
 ### Solution
 
-Jane decides to use InSource Langflow to automate the process. She follows these steps:
+Jane decides to use InSource Flow to automate the process. She follows these steps:
 
-1. **Input candidate information**: Jane uploads the resumes to InSource Langflow. The AI assistant extracts relevant information such as name, contact details, skills, and experience, and inputs it into Jane's candidate database.
-2. **Match candidates with job description**: Jane inputs the job description for the software engineer position into InSource Langflow. The AI assistant analyzes the job description and matches it with the candidates in the database based on their skills, experience, and other relevant factors.
-3. **Rank candidates**: InSource Langflow ranks the candidates according to their suitability for the job. This helps Jane identify the top candidates who are most likely to succeed in the role.
+1. **Input candidate information**: Jane uploads the resumes to InSource Flow. The AI assistant extracts relevant information such as name, contact details, skills, and experience, and inputs it into Jane's candidate database.
+2. **Match candidates with job description**: Jane inputs the job description for the software engineer position into InSource Flow. The AI assistant analyzes the job description and matches it with the candidates in the database based on their skills, experience, and other relevant factors.
+3. **Rank candidates**: InSource Flow ranks the candidates according to their suitability for the job. This helps Jane identify the top candidates who are most likely to succeed in the role.
 
 ### Outcome
 
-By using InSource Langflow, Jane is able to:
+By using InSource Flow, Jane is able to:
 
 1. Save time and resources by automating the process of inputting candidate information and matching job descriptions with candidates.
 2. Ensure that the best candidates are shortlisted for interviews, increasing the chances of finding the right candidate for the job.
@@ -56,4 +56,4 @@ By using InSource Langflow, Jane is able to:
 
 ## Conclusion
 
-InSource Langflow is a powerful AI assistant that can revolutionize the recruitment process by automating time-consuming tasks and ensuring that the best candidates are matched with job descriptions. By leveraging the power of OpenAI's no-code flow based on Langchain, InSource Langflow can help recruiters like Jane streamline their recruitment process, save time and resources, and ultimately find the right candidates for their job openings.
+InSource Flow is a powerful AI assistant that can revolutionize the recruitment process by automating time-consuming tasks and ensuring that the best candidates are matched with job descriptions. By leveraging the power of OpenAI's no-code flow based on Langchain, InSource Flow can help recruiters like Jane streamline their recruitment process, save time and resources, and ultimately find the right candidates for their job openings.
