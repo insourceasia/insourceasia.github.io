@@ -166,7 +166,7 @@ params:
   section1:
     title: One platform
     subtitle: To rule all AI flows
-    image: illustrations/mockups/dashboard.png
+    image: illustrations/mockups/insource.png
     buttonText: Explore
     buttonLink: "/features/admin/"
   section4:

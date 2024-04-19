@@ -8,7 +8,7 @@ sidebarlogo: fresh-white-alt
 
 The Dashboard provides an overview of the system, displaying relevant information and key metrics like # of requests and token usage to help users monitor and manage their flow efficiently.
 
-![](/images/illustrations/mockups/dashboard.png)
+![](/images/illustrations/mockups/insource.png)
 
 ---
 
