@@ -48,7 +48,7 @@ params:
     buttonlink: "/#section5"
     # Hero image (from static/images/___)
     # image: illustrations/worker.svg
-    image: illustrations/mockups/langflow.png
+    image: illustrations/mockups/insource.png
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     # clientlogos:
